@@ -1,37 +1,30 @@
-## Hi there 👋
-#  I'm Dibyanshu!
+# 🚀 Hey, I'm Dibyanshu — Dreamer. Builder. Explorer.
 
-🚀 I'm a **B.Tech CSE student** passionate about **web development**, **IoT**, and **AI/ML**.  
-💡 Currently working on: *Krishi-Connect* (iot based hackthon project).  
-🌱 Learning: Python C++ and web development.  
-🎯 Goal: Build tech that connects people and cultures.
+👨‍💻 B.Tech CSE | 🌾 Co-creator of *Krishi-Connect*  
+🧠 Passionate about Web Dev, IoT & AI/ML  
+🌍 Building a tech-driven future rooted in *culture & creativity*.
 
 ---
 
-### 🧠 Tech Stack
-💻 HTML | CSS | Python | C/C++   
-⚙️ Arduino | ESP8266   
-🗄️ MySQL  
-🎨 Figma | Canva  
+### 🌱 What I'm Building
+- 💡 *Krishi-Connect* — IoT-based Smart Agriculture System  
+- 🌐 *Web Agency* — empowering creators & freelancers  
+- 🏔️ *NandaGuide* — Tourism + AI for the Himalayas  
+- ☕ *Future Vision:* Themed cafés & cultural experiences for Gen Z  
 
 ---
 
-### 📊 GitHub Stats
-![Dibyanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=tokyonight)
+### 🧰 Toolbox
+HTML | CSS | JS | Python | C++ | Arduino | ESP8266 | Figma | MySQL  
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshu-228&theme=tokyonight)
+### 📊 GitHub Insights
+![Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=highcontrast)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=highcontrast)
 
 ---
 
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dibyanshu-codes22)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/divy.anshu._)
-
----
-
-⭐ From [@Dibyanshu_Sanyal](https://github.com/Divyanshu-228)
+### 🤝 Let’s Connect
+[LinkedIn](https://linkedin.com/in/dibyanshu-codes22) | [Instagram](https://instagram.com/divy.anshu._)  
+⭐ “Turning ideas into impact, one project at a time.”
