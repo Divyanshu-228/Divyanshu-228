@@ -38,7 +38,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=radical&hide_border=true&border_radius=10" width="450" alt="Top Languages"/>
 
-<img src="https://github.com/Divyanshu-228/Divyanshu-228/blob/output/github-contribution-grid-snake.svg" alt="snake eating my commits" width="700"/>
+<!--img src="https://github.com/Divyanshu-228/Divyanshu-228/blob/output/github-contribution-grid-snake.svg" alt="snake eating my commits" width="700"/-->
 
 </div>
 
