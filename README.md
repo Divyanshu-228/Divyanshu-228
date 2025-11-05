@@ -17,14 +17,14 @@
 ---
 
 ### 📊 GitHub Stats
-![Dibyanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=DibyanshuSanyal&show_icons=true&theme=tokyonight)
+![Dibyanshu’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DibyanshuSanyal&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=DibyanshuSanyal&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshu-228&theme=tokyonight)
 
 ---
 
@@ -35,4 +35,4 @@
 
 ---
 
-⭐ From [@DibyanshuSanyal](https://github.com/DibyanshuSanyal)
+⭐ From [@DibyanshuSanyal](https://github.com/Divyanshu-228)
