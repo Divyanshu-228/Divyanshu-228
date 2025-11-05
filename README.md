@@ -24,9 +24,28 @@
 
 ---
 
-### 📊 GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=highcontrast&hide_border=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=highcontrast&hide_border=true)
+### ⚡ GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Analyzing+GitHub+Activity...;Fetching+Latest+Commits...;Building+Future+with+Every+Push+🚀"/>
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="400" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Divyanshu-228&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="400" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=radical&hide_border=true&border_radius=10" width="450" alt="Top Languages"/>
+
+<img src="https://github.com/Divyanshu-228/Divyanshu-228/blob/output/github-contribution-grid-snake.svg" alt="snake eating my commits" width="700"/>
+
+</div>
 
 ---
 
@@ -47,3 +66,8 @@
 
 ⭐ *“Turning ideas into impact — one project at a time.”*  
 ✨ *Made with caffeine, curiosity, and code by [@Divyanshu-228](https://github.com/Divyanshu-228)*
+
+---
+
+--
+
