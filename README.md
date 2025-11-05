@@ -2,16 +2,16 @@
 #  I'm Dibyanshu!
 
 🚀 I'm a **B.Tech CSE student** passionate about **web development**, **IoT**, and **AI/ML**.  
-💡 Currently working on: *NandaGuide* (Hackathon Project) and our *Web Agency*.  
-🌱 Learning: React, TailwindCSS, and Backend development.  
+💡 Currently working on: *Krishi-Connect* (iot based hackthon project).  
+🌱 Learning: Python C++ and web development.  
 🎯 Goal: Build tech that connects people and cultures.
 
 ---
 
 ### 🧠 Tech Stack
-💻 HTML | CSS | JavaScript | React | Node.js | Express  
-⚙️ Arduino | ESP8266 | Raspberry Pi  
-🗄️ MongoDB | MySQL  
+💻 HTML | CSS | Python | C/C++   
+⚙️ Arduino | ESP8266   
+🗄️ MySQL  
 🎨 Figma | Canva  
 
 ---
