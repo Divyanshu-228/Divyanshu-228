@@ -19,11 +19,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshu-228&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15)
-
----
-
 ### ⚡ GitHub Stats & Activity
 
 <div align="center">
@@ -49,6 +44,11 @@
 
 ---
 
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshu-228&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15)
+
+---
+
 ### 🧠 Fun Fact Corner
 > 🧩 I once debugged an IoT project at 3 AM using a *hairdryer* as a heat gun.  
 > ⚙️ When my code runs perfectly, I start doubting my sanity.  
@@ -69,5 +69,5 @@
 
 ---
 
---
+---
 
