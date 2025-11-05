@@ -31,8 +31,7 @@
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/dibyanshu-codes22)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/divy.anshu._)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](<h1>Hi, It's Dibyanshu here</h1>)
 
 ---
 
-⭐ From [@DibyanshuSanyal](https://github.com/Divyanshu-228)
+⭐ From [@Dibyanshu_Sanyal](https://github.com/Divyanshu-228)
