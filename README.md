@@ -1,30 +1,49 @@
-# 🚀 Hey, I'm Dibyanshu — Dreamer. Builder. Explorer.
-
-👨‍💻 B.Tech CSE | 🌾 Co-creator of *Krishi-Connect*  
-🧠 Passionate about Web Dev, IoT & AI/ML  
-🌍 Building a tech-driven future rooted in *culture & creativity*.
+<!-- Profile Banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dibyanshu+👋;Dreamer.+Builder.+Explorer.;IoT+%7C+AI%2FML+%7C+Web+Developer;Building+Tech+that+Connects+People+%26+Culture!" />
 
 ---
 
-### 🌱 What I'm Building
-- 💡 *Krishi-Connect* — IoT-based Smart Agriculture System  
-- 🌐 *Web Agency* — empowering creators & freelancers  
-- 🏔️ *NandaGuide* — Tourism + AI for the Himalayas  
-- ☕ *Future Vision:* Themed cafés & cultural experiences for Gen Z  
+### 🚀 About Me
+👨‍💻 **B.Tech CSE Student** |
+🧠 Passionate about **Web Dev**, **IoT**, and **AI/ML**  
+🌍 On a mission to blend **Technology + Culture + Creativity**  
+
+💭 *"Code isn’t just logic — it’s how I tell stories with circuits and pixels."*
 
 ---
 
 ### 🧰 Toolbox
-HTML | CSS | JS | Python | C++ | Arduino | ESP8266 | Figma | MySQL  
+`HTML` • `CSS` • `JavaScript` • `Python` • `C++`  
+`Arduino` • `ESP8266` • `MySQL`  
+🎨 `Figma` • `Canva`
+
+---
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshu-228&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15)
 
 ---
 
 ### 📊 GitHub Insights
-![Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=highcontrast)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=highcontrast)
+![Stats](https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=highcontrast&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=highcontrast&hide_border=true)
 
 ---
 
-### 🤝 Let’s Connect
-[LinkedIn](https://linkedin.com/in/dibyanshu-codes22) | [Instagram](https://instagram.com/divy.anshu._)  
-⭐ “Turning ideas into impact, one project at a time.”
+### 🧠 Fun Fact Corner
+> 🧩 I once debugged an IoT project at 3 AM using a *hairdryer* as a heat gun.  
+> ⚙️ When my code runs perfectly, I start doubting my sanity.  
+> ☕ Coffee is not optional — it’s part of the workflow.
+
+---
+
+### 🌐 Let's Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dibyanshu-codes22)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divy.anshu._)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](#)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=Divyanshu-228&color=blue&style=for-the-badge)]()
+
+---
+
+⭐ *“Turning ideas into impact — one project at a time.”*  
+✨ *Made with caffeine, curiosity, and code by [@Divyanshu-228](https://github.com/Divyanshu-228)*
