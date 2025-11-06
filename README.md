@@ -13,7 +13,7 @@
 ---
 
 ### 🧰 Toolbox
-`HTML` • `CSS` • `JavaScript` • `Python` • `C++`  
+`HTML` • `CSS` • `Python` • `C` • `C++`  
 `Arduino` • `ESP8266` • `MySQL`  
 🎨 `Figma` • `Canva`
 
