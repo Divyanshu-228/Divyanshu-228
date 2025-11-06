@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFFF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dibyanshu+👋;Dreamer.+Builder.+Explorer.;IoT+%7C+AI%2FML+%7C+Web+Developer;Building+Tech+that+Connects+People+%26+Culture!" />
+<center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1bab42&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dibyanshu+👋;Dreamer.+Builder.+Explorer.;IoT+%7C+AI%2FML+%7C+Web+Developer;Building+Tech+that+Connects+People+%26+Culture!" /></center>
 
 ---
 
