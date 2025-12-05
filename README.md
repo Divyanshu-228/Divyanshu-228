@@ -8,7 +8,7 @@
 
 👨‍💻 **B.Tech CSE Student** · 
 🧠 Passionate about **Web Dev**, **IoT**, and **AI/ML**  
-🌍 *From circuits to scrolls — mixing modern logic with vintage charm.*
+🌍 *From circuits to scrolls — mixing modern logic with charm.*
 
 ---
 
