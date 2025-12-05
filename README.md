@@ -1,73 +1,79 @@
-<!-- Profile Banner -->
-<center><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1bab42&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Dibyanshu+👋;Dreamer.+Builder.+Explorer.;IoT+%7C+AI%2FML+%7C+Web+Developer;Building+Tech+that+Connects+People+%26+Culture!" /></center>
+# 🕰️ Workshop of Ideas — Dibyanshu Sanyal
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=24&pause=1000&color=AF7A4E&center=true&vCenter=true&width=760&lines=Accessing+Developer+Archives...;Loading+Projects...;Code+Incoming" />
 
 ---
 
-### 🚀 About Me
-👨‍💻 **B.Tech CSE Student** |
+## 🚀 About the Craftsman
+
+👨‍💻 **B.Tech CSE Student** · 
 🧠 Passionate about **Web Dev**, **IoT**, and **AI/ML**  
-🌍 On a mission to blend **Technology + Culture + Creativity**  
-
-💭 *"Code isn’t just logic — it’s how I tell stories with circuits and pixels."*
+🌍 *From circuits to scrolls — mixing modern logic with vintage charm.*
 
 ---
 
-### 🧰 Toolbox
-`HTML` • `CSS` • `Python` • `C` • `C++`  
+
+---
+
+## 🧰 Toolbox
+`HTML` • `CSS` • `JavaScript` • `Python` • `C++`  
 `Arduino` • `ESP8266` • `MySQL`  
 🎨 `Figma` • `Canva`
 
 ---
 
-### ⚡ GitHub Stats & Activity
+## ⚡ GitHub Stats & Activity 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=Analyzing+GitHub+Activity...;Fetching+Latest+Commits...;Building+Future+with+Every+Push+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=20&pause=900&color=AF7A4E&center=true&vCenter=true&width=640&lines=Compiling+Logs...;Loading+Stats...;Console+Online+📟" />
 
 <table>
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=radical&hide_border=true&border_radius=10" width="400" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Divyanshu-228&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="400" alt="GitHub Streak"/>
-    </td>
-  </tr>
+<tr>
+<td>
+
+<!-- MIRROR for GitHub Stats (always works) -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Divyanshu-228&show_icons=true&theme=gruvbox&hide_border=true" width="430" />
+<br/>
+</td>
+
+<td>
+
+<!-- STREAK Stats (working already for you) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Divyanshu-228&theme=gruvbox&hide_border=true" width="430" />
+</td>
+</tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=radical&hide_border=true&border_radius=10" width="450" alt="Top Languages"/>
+<!-- MIRROR for Top Languages -->
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Divyanshu-228&layout=compact&theme=gruvbox&hide_border=true" width="520" />
 
-<!--img src="https://github.com/Divyanshu-228/Divyanshu-228/blob/output/github-contribution-grid-snake.svg" alt="snake eating my commits" width="700"/-->
+<!-- Snake -->
+<br/><br/>
+<img src="https://raw.githubusercontent.com/Divyanshu-228/Divyanshu-228/output/github-contribution-grid-snake.svg" width="780" />
 
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Divyanshu-228&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=15)
+## 🧠 Fun Facts from the Workshop
+
+- ☕ Coffee + chaos = code.  
+- 🧰 My sensors behave only when I talk nicely to them.
 
 ---
 
-### 🧠 Fun Fact Corner
-> 🧩 I once debugged an IoT project at 3 AM using a *hairdryer* as a heat gun.  
-> ⚙️ When my code runs perfectly, I start doubting my sanity.  
-> ☕ Coffee is not optional — it’s part of the workflow.
+## 🌐 Let’s Exchange Notes
 
----
+<div align="center">
 
-### 🌐 Let's Connect & Collaborate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dibyanshu-codes22)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/divy.anshu._)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](#)
-[![Visitor Badge](https://komarev.com/ghpvc/?username=Divyanshu-228&color=blue&style=for-the-badge)]()
+![Visitor Badge](https://komarev.com/ghpvc/?username=Divyanshu-228&color=AF7A4E&style=for-the-badge)
+
+</div>
 
 ---
 
-⭐ *“Turning ideas into impact — one project at a time.”*  
-✨ *Made with caffeine, curiosity, and code by [@Divyanshu-228](https://github.com/Divyanshu-228)*
-
----
-
----
-
+🖋️ *“Commit by commit, we craft a little bit of legacy.”*  
+⭐ Made with retro vibes — [@Divyanshu-228](https://github.com/Divyanshu-228)
